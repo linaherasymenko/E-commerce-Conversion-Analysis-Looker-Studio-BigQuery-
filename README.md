@@ -30,6 +30,7 @@ Dataset with session and purchase logs processed in BigQuery. Data was cleaned, 
 - **Looker Studio** → interactive dashboard and visualization  
 
 
-[View Live Dashboard](https://lookerstudio.google.com/reporting/012da203-b91c-45ad-8318-584d012238b5)
+## 🔗 Live Dashboard
+[View in Looker Studio](https://lookerstudio.google.com/reporting/012da203-b91c-45ad-8318-584d012238b5)
 
 ---
